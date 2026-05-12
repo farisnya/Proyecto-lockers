@@ -65,3 +65,8 @@ Estado en tiempo real
         ↓
 [Página Web]
 Monitoreo del sistema
+
+---
+# Diagrama UML
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/11f346b4-a9df-44a4-a042-6b14948e32f1" />
+
