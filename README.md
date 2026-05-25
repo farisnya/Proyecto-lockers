@@ -52,6 +52,9 @@ Desarrollar un sistema inteligente de lockers empleando comunicación cliente-se
 # Diagrama UML
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/11f346b4-a9df-44a4-a042-6b14948e32f1" />
 
+Diagrama UML corregido 
+file:///C:/Users/Yoshiramayorque3/Downloads/uml_smartlocker_completo.svg
+
 ---
 
 # Arquitectura del Sistema
