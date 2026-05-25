@@ -1,0 +1,14 @@
+/.vscode
+/cliente_locker.cpp
+/compilar.bat
+/liblockers.a
+/libreria_lockers.cpp
+/libreria_lockers.dll
+/libreria_lockers.h
+/lockers.i
+/README.md
+/README_lockers.md
+/servidor.cpp
+/servidor.exe
+/usuarios.json
+/usuarios_web.json
