@@ -1,26 +1,3 @@
-"""
-visualizador.py  (versión multi-PC — SIN AUTOMÁTICO)
-================================================================
-Dashboard Streamlit para el sistema de lockers.
-
-CAMBIOS vs versión anterior:
-  - Se ELIMINÓ el botón "Aleatorio" y la lógica de simulación.
-  - Los lockers SOLO se ocupan/liberan cuando el usuario ingresa
-    un número de locker y un código manualmente, o usa los botones
-    por locker.
-  - Si el servidor responde ERROR:LOCKER_OCUPADO, se muestra un
-    mensaje claro indicando que el locker ya está en uso.
-  - El auto-refresh solo actualiza el estado recibido del servidor;
-    NO genera ninguna acción automática.
-
-Uso:
-    streamlit run visualizador.py
-
-Requiere:
-    pip install streamlit pandas
-    + libreria_lockers.dll (Windows) o libreria_lockers.so (Linux)
-================================================================
-"""
 
 import ctypes
 import os
