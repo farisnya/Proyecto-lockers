@@ -1,26 +1,3 @@
-"""
-web_server.py — SmartLocker Web Server v4
-==========================================
-MEJORAS v4:
-  ✅ Persistencia de usuarios en usuarios_web.json
-  ✅ Token del servidor C++ usado directamente (no token local duplicado)
-  ✅ Historial filtrado por usuario (tab "Mi historial")
-  ✅ UI mejorada: conexión, historial global + historial personal
-  ✅ SSE push instantáneo a TODOS los navegadores
-  ✅ Modo standalone (sin servidor C++) con estado local completo
-  ✅ Admin puede liberar cualquier locker
-
-Instalar:
-  pip install flask
-
-Ejecutar:
-  python web_server.py                          # mismo PC que servidor.exe
-  python web_server.py --server 192.168.1.X     # servidor en otra PC
-
-Abrir en cualquier dispositivo del WiFi:
-  http://<IP-de-este-PC>:5000
-"""
-
 import socket
 import threading
 import time
