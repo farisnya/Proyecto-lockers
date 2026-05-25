@@ -1,16 +1,3 @@
-"""
-dashboard.py — SmartLocker System
-===================================
-Dashboard Streamlit con conexión directa al servidor C++.
-
-El usuario ingresa un código para ARRENDAR o DEVOLVER un locker.
-La DLL (C++) envía el código al servidor y recibe la respuesta.
-
-Ejecución:
-  streamlit run dashboard.py
-
-Cambiar IP del servidor en el sidebar si es otra PC.
-"""
 
 import streamlit as st
 import ctypes
