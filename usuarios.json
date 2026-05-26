@@ -1,0 +1,8 @@
+{
+  "usuarios": [
+    {"nombre":"admin","hash":"fff2f94ef52eb4a9"},
+    {"nombre":"farisnya","hash":"cf90484a39440fe1"},
+    {"nombre":"sexodecaballos","hash":"ac3108624e1e11e5"},
+    {"nombre":"usuaria","hash":"99619e3a74ebdbfd"}
+  ]
+}
