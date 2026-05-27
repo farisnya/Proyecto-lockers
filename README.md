@@ -2,14 +2,14 @@
 
 ## ¿Qué hay de nuevo en v3?
 
-| Característica | v2 (anterior) | v3 (nuevo) |
+| Característica | v2 (anterior) |  (nuevo) |
 |---|---|---|
 | Interfaz | Streamlit (solo un PC) | **Web pura** (cualquier dispositivo del WiFi) |
-| Auth de usuarios | ❌ No había | ✅ Registro y login completo |
+| Auth de usuarios |  No había |  Registro y login completo |
 | Actualización real-time | Polling cada 300ms | **Server-Sent Events (SSE)** — push instantáneo |
 | Clientes soportados | PC con Python | **Teléfono, tablet, PC — cualquier navegador** |
 | Protocolo servidor | Solo broadcast | **EVENT / SNAP / AUTH + broadcast** |
-| Sesiones | ❌ | ✅ Token por sesión, 8 horas |
+| Sesiones |  Token por sesión, 8 horas |
 
 ---
 
