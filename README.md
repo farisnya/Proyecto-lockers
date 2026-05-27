@@ -1,8 +1,4 @@
-# SmartLocker v3 — Sistema Multi-PC con Web Real-Time
 
-## ¿Qué hay de nuevo en v3?
-
-| Característica | v2 (anterior) |  (nuevo) |
 |---|---|---|
 | Interfaz | Streamlit (solo un PC) | **Web pura** (cualquier dispositivo del WiFi) |
 | Auth de usuarios |  No había |  Registro y login completo |
